@@ -1,0 +1,12 @@
+1, "El Tiempo No Para", 311, "Bersuit Vergarabat"
+2, "Mi Caramelo", 290, "Bersuit Vergarabat"
+3, "Party Rock Anthem", 408, "LMFAO";
+4, "Sorry for Party Rocking", 421, "LMFAO"
+5, "Fix You", 255, "Coldplay";
+6, "Speed of Sound", 455, "Coldplay"
+7, "Viva la Vida", 320, "Coldplay"
+8, "With or Without You", 360, "U2"
+9, "Vertigo", 355, "U2"
+10, "City of Blinding Lights", 284, "U2"
+11, "A la Luz de la Luna", 438, "El Indio Solari"
+12, "Yo Canibal", 258, "Patricio Rey y sus Redonditos de Ricota"
